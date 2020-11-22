@@ -1,2 +1,3 @@
-# dbbact-calour-core
-Calour interface for dbBact (dbbact.org) - light version (no qt5 or ontology files)
+# dbbact-calour
+Interface between [dbBact](http://dbbact.org) database and [Calour](https://github.com/amnona/calour) microbiome analysis tool
+

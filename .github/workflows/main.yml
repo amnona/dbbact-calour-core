@@ -41,7 +41,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: 'output'
+          source-directory: '.'
           destination-github-username: 'amnona'
           destination-repository-name: 'test_git_action'
           target-branch: main

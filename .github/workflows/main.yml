@@ -43,6 +43,6 @@ jobs:
         with:
           source-directory: 'output'
           destination-github-username: 'amnona'
-          destination-repository-name: 'test_git_action'
+          destination-repository-name: 'test_git_action@main'
           user-email: amnonim@gmail.com
           commit-message: See ORIGIN_COMMIT

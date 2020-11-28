@@ -30,10 +30,10 @@ jobs:
         run: echo Hello, world!
 
       - name: print current dir
-        run: sh pwd
+        run: pwd
       
       - name: list files in dir
-        run: sh ls
+        run: ls
 
       - name: Pushes to another repository
         id: push_directory
